@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f855e6bc.css",
+    "main.js": "/static/js/main.b6997ffa.js",
+    "static/js/453.594ab370.chunk.js": "/static/js/453.594ab370.chunk.js",
+    "static/media/pexels-kaip-1341279.jpg": "/static/media/pexels-kaip-1341279.6d582c84c68f1ca3b47d.jpg",
+    "static/media/h2.png": "/static/media/h2.728672a98a45d72c4aa8.png",
+    "static/media/v3.png": "/static/media/v3.9729f2b7555d5ae88705.png",
+    "static/media/bullet-health.png": "/static/media/bullet-health.1ee8343875a7ad1dc8bf.png",
+    "static/media/laser-104024.mp3": "/static/media/laser-104024.6724e6d011ec915183f6.mp3",
+    "index.html": "/index.html",
+    "main.f855e6bc.css.map": "/static/css/main.f855e6bc.css.map",
+    "main.b6997ffa.js.map": "/static/js/main.b6997ffa.js.map",
+    "453.594ab370.chunk.js.map": "/static/js/453.594ab370.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.b6997ffa.js"
+  ]
+}
